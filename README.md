@@ -45,6 +45,16 @@ Click this icon to start editing. Once you are
 finished commit your changes in the same way you
 would when uploading a file.
 
+## Note
+
+While this is the easiest way to use GitHub it
+is also probably the worst way. If you are ever
+using GitHub for more serious or larger scale projects you should be interacting through the
+command-line. But the methods above are
+definitely good enough and will keep things afloat!
+
+[Resources to learn Git](https://try.github.io/)
+
 
 
 
