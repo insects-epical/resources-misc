@@ -5,4 +5,6 @@ TODO Team update 10.30:
  - clear users (both supply and demand)
  - why is our problem worth solving?
  - initial idea of our solution (Tinder for food waste)
- - 
+
+
+
